@@ -1,0 +1,4 @@
+Tarun
+<?php
+phpinfo();
+?>
